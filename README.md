@@ -275,41 +275,6 @@ City       : Moradabad
 Education  : B.Tech in Computer Science and Engineering
 ===================================
 ```
-
-> 💡 You can replace the sample information with your own details.
-
-### 📸 Screenshot
-
-![Bio Data Program](Favorite Food.png)
-
----
-
-# 📸 Project Screenshots
-
-The following screenshots demonstrate the execution of the Python programs.
-
-### Hello World
-
-![Hello World](Hello world.png)
-
-### Variables
-
-![Variables](Personal Introduction.png)
-
-### Basic Calculations
-
-![Calculations](Basic Calculation.png)
-
-### Lists
-
-![Favorite Foods](Favorite Food.png)
-
-### Bio-Data
-
-![Bio Data](Bio Data.png)
-
----
-
 # 🛠️ Technologies Used
 
 * **Python 3**
